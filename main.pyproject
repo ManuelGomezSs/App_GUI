@@ -1,0 +1,3 @@
+{
+    "files": ["qml/components/LeftMenuBtn.qml","qml/pages/personalInformationPage.qml","qml/components/TopBarButton.qml","qml/main.qml","splashScreen.qml","qml/pages/homePage.qml","main.py","dataBase/databaseconnection.cpp","qml/pages/academicNotesPage.qml","qml/dataBaseConnection.qml","qml/components/ToggleButton.qml","dataBase/databaseconnection.h","qml/pages/settingsPage.qml"]
+}
